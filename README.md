@@ -5,6 +5,8 @@ The PHQ-9 incorporates DSM-IV depression diagnostic criteria with other leading 
 
 Test Questions Source: http://patient.info/doctor/patient-health-questionnaire-phq-9
 
+**Note:** The CSS is still pending. I will update this repo ASAP adding styling and to make it responsive.
+
 ## Installation
 
 ```
