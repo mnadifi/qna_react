@@ -1,4 +1,4 @@
-# Quiz React 
+# QnA React 
 
 ## Installation
 
