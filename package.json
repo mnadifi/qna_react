@@ -1,7 +1,7 @@
 {
   "name": "Questionnaire",
   "version": "1.0.0",
-  "description": "The PHQ-9 is a multipurpose instrument for screening, diagnosing, monitoring and measuring the severity of depression: n The PHQ-9 incorporates DSM-IV depression diagnostic criteria with other leading major depressive symptoms into a brief self-report tool.",
+  "description": "The PHQ-9 is a multipurpose instrument for screening, diagnosing, monitoring and measuring the severity of depression",
   "scripts": {
     "start": "webpack-dev-server --content-base .",
     "build": "NODE_ENV=production webpack --progress -p --optimize-minimize --config webpack.config.js"
