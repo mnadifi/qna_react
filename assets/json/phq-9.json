@@ -1,0 +1,196 @@
+{
+  "title": "Patient Health Questionnaire (PHQ-9)",
+  "subTitle": "Over the last two weeks, how often have you been bothered by any of the following problems?",
+  "required": "Please, select an option",
+  "questions": [
+    {
+      "question": "Little interest or pleasure in doing things?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Feeling down, depressed, or hopeless?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Trouble falling or staying asleep, or sleeping too much?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Feeling tired or having little energy?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Poor appetite or overeating?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Feeling bad about yourself - or that you are a failure or have let yourself or your family down?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Trouble concentrating on things, such as reading the newspaper or watching television?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Moving or speaking so slowly that other people could have noticed? Or the opposite - being so fidgety or restless that you have been moving around a lot more than usual?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    },
+    {
+      "question": "Thoughts that you would be better off dead, or of hurting yourself in some way?",
+      "answers": [
+        {
+          "point": 0,
+          "label": "Not at all"
+        },
+        {
+          "point": 1,
+          "label": "Several days"
+        },
+        {
+          "point": 2,
+          "label": "More than half the days in the week"
+        },
+        {
+          "point": 3,
+          "label": "Nearly every day"
+        } 
+      ]
+    }
+  ]
+}
